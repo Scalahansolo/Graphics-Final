@@ -5,5 +5,5 @@ This was my final projects for my computer graphics class. I replicated New Belg
 
 ### Notes:
 
-- In order to run. Just use `make` and then run ./shift. 
+- In order to run. Just use `make` and then run `./shift`. 
 - There might be issues if running on a non-ubuntu machine as my make file was made for an ubuntu 14.04 machine.
